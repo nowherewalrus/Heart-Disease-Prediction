@@ -35,7 +35,7 @@ The project uses the Heart Disease dataset containing 303 patient records with 1
 Heart-Risk-Prediction/
 │
 ├── heart.csv                    # Dataset file
-├── heart_disease_classification.ipynb  # Main Jupyter Notebook
+├── Heart-Risk-Prediction.ipynb  # Main Jupyter Notebook
 ├── README.md                    # This file
 ├── requirements.txt             # Dependencies
 └── images/                      # Output visualizations (optional)
