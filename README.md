@@ -32,7 +32,7 @@ The project uses the Heart Disease dataset containing 303 patient records with 1
 
 ## 🏗️ Project Structure
 ```
-Heart-disease-classification/
+Heart-Risk-Prediction/
 │
 ├── heart.csv                    # Dataset file
 ├── heart_disease_classification.ipynb  # Main Jupyter Notebook
@@ -51,7 +51,7 @@ Heart-disease-classification/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/heart-disease-classification.git
+git clone https://github.com/nowherewalrus/Heart-Risk-Prediction.git
 cd heart-disease-classification
 ```
 
