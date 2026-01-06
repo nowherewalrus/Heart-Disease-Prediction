@@ -32,7 +32,7 @@ The project uses the Heart Disease dataset containing 303 patient records with 1
 
 ## 🏗️ Project Structure
 ```
-heart-disease-classification/
+Heart-disease-classification/
 │
 ├── heart.csv                    # Dataset file
 ├── heart_disease_classification.ipynb  # Main Jupyter Notebook
@@ -199,9 +199,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -212,8 +209,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or suggestions, please contact:
-- **Your Name** - [email@example.com](mailto:email@example.com)
-- **Project Link**: [https://github.com/yourusername/heart-disease-classification](https://github.com/yourusername/heart-disease-classification)
+- **Your Name** - pkhaghani916@gmail.com
+- **Project Link**: https://github.com/nowherewalrus/Heart-Risk-Prediction.git
 
 ---
 
