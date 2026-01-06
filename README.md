@@ -51,8 +51,8 @@ Heart-Risk-Prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/nowherewalrus/Heart-Risk-Prediction.git
-cd heart-disease-classification
+git clone https://github.com/nowherewalrus/Heart-Disease-Prediction.git
+cd Heart-Disease-Prediction.git
 ```
 
 2. **Create virtual environment (optional but recommended)**
@@ -210,7 +210,7 @@ Contributions are welcome! Please follow these steps:
 
 For questions or suggestions, please contact:
 - **Your Name** - pkhaghani916@gmail.com
-- **Project Link**: https://github.com/nowherewalrus/Heart-Risk-Prediction.git
+- **Project Link**: https://github.com/nowherewalrus/Heart-Disease-Prediction.git
 
 ---
 
