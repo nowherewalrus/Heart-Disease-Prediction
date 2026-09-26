@@ -38,7 +38,7 @@ Heart-Risk-Prediction/
 ├── Heart-Risk-Prediction.ipynb  # Main Jupyter Notebook
 ├── README.md                    # This file
 ├── requirements.txt             # Dependencies
-└── images/                      # Output visualizations (optional)
+
 ```
 
 ## ⚙️ Installation & Setup
@@ -81,12 +81,7 @@ jupyter==1.0.0
 
 ### Run the Jupyter Notebook
 ```bash
-jupyter notebook heart_disease_classification.ipynb
-```
-
-### Or execute as Python script
-```bash
-python heart_disease_classification.py
+jupyter notebook Heart-Risk-Prediction.ipynb
 ```
 
 ## 📈 Methodology
